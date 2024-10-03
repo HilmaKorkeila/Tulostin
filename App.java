@@ -1,8 +1,8 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hei olen Tulostin -ohjelma");
+        System.out.println("Hei olen Uusi Tulostin -ohjelma");
         System.out.println("Ohjelman tekijä");
-        String name = "Esimerkki";
+        String name = "HilmaK";
         System.out.println(name);
         System.out.print("Ohjelman tekijä ");
         System.out.println(name);
