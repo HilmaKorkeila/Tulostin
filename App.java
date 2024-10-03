@@ -7,8 +7,8 @@ public class App {
         System.out.print("Ohjelman tekijä ");
         System.out.println(name);
         int luku1, luku2, result;
-        luku1 = 5;
-        luku2 = 2; 
+        luku1 = 6;
+        luku2 = 4; 
         result = luku1 * luku2;
         System.out.println(result);
         System.out.print("Luku1 muuttujan arvo on ");
